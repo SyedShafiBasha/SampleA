@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SevenLake", "WebApplication2\SevenLake.csproj", "{BD186718-5D25-46C6-859B-57EE14550915}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD186718-5D25-46C6-859B-57EE14550915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD186718-5D25-46C6-859B-57EE14550915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD186718-5D25-46C6-859B-57EE14550915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD186718-5D25-46C6-859B-57EE14550915}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDBF0CB3-9F1B-43E0-A5F5-33D7FFF6C890}
+	EndGlobalSection
+EndGlobal
